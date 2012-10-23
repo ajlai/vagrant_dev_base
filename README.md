@@ -12,3 +12,9 @@ Usage
 3. Grab the submodules (`git submodule init && git submodule update`)
 4. Vagrant Up! (`vagrant up`)
 5. Twiddle your thumbs as it all gets set up for you
+
+Todo
+----
+
+* Make usage even easier. (Cookbooks in tarball, only vagrant + VagrantFile will be needed)
+* Add additional cookbooks commonly used (Redis, Memcache, MySQL, etc.)
