@@ -18,3 +18,4 @@ Todo
 
 * Make usage even easier. (Cookbooks in tarball, only vagrant + VagrantFile will be needed)
 * Add additional cookbooks commonly used (Redis, Memcache, MySQL, etc.)
+* Use 'runlist' in `Vagrantfile` for services, keep vagrant_main for customization only (aliases, gitconfigs, etc)
